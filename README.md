@@ -1,4 +1,6 @@
 # GmailAPInachos
+Gmail inbox management.  This will help you to inventory our inbox by sender.  See how many messages you are getting from each email domain.
+
 Gmail Api through python with domain counts of inbox data, csv export and count of domains sender
 MAIL report maker using Python and Gmail API.  This script can handle very large gmail inboxes.
 
